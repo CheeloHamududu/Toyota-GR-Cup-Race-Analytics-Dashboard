@@ -1,0 +1,2 @@
+qualifying_correlation,pit_stop_impact,tire_degradation_rate,fuel_consumption_rate,weather_impact,track_evolution,optimal_pit_window,key_performance_factors
+0.99,30.0,4.0,5.0,minimal,improving,12-15,"['qualifying_position', 'tire_management', 'fuel_strategy']"
