@@ -36,3 +36,6 @@ This dashboard provides race engineers and strategists with a centralized hub fo
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. streamlit app
+    ```bash
+   streamlit run streamlt_race_app.py
