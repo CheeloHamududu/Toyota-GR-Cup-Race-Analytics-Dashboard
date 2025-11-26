@@ -38,4 +38,4 @@ This dashboard provides race engineers and strategists with a centralized hub fo
    pip install -r requirements.txt
 3. streamlit app
     ```bash
-   streamlit run streamlt_race_app.py
+   streamlit run streamlit_race_app.py
