@@ -2,6 +2,8 @@
 The Pulse of the Track: Comprehensive Race Data Visualization.
 
 > **Data Driven. Race Ready.** > An interactive telemetry and strategy tool designed to optimize race performance in real-time.
+![Dashboard Screenshot](1.png)
+![Dataset_Generator](2.jpg)
 
 ## 📖 Overview
 This dashboard provides race engineers and strategists with a centralized hub for monitoring vehicle performance during the Toyota GR Cup. By visualizing critical metrics like tire degradation, fuel levels, and lap times, the application helps teams determine the optimal pit strategy and compare their pace against specific rivals in the field.
