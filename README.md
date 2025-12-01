@@ -5,6 +5,14 @@ The Pulse of the Track: Comprehensive Race Data Visualization.
 ![Dashboard Screenshot](1.png)
 ![Dataset_Generator](2.png)
 
+## 🚀 Live Dashboard
+
+**[📊 Access the Interactive Race Analytics Dashboard](https://toyota-gr-cup-race-analytics-dashboard-55v9xepvxv94ejyhxlz6up.streamlit.app/)**
+
+Explore real-time race strategy, pit stop optimization, and performance analytics through our interactive Streamlit dashboard.
+
+---
+
 ## 📖 Overview
 This dashboard provides race engineers and strategists with a centralized hub for monitoring vehicle performance during the Toyota GR Cup. By visualizing critical metrics like tire degradation, fuel levels, and lap times, the application helps teams determine the optimal pit strategy and compare their pace against specific rivals in the field.
 
