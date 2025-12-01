@@ -9,7 +9,7 @@ The Pulse of the Track: Comprehensive Race Data Visualization.
 
 **[📊 Access the Interactive Race Analytics Dashboard](https://toyota-gr-cup-race-analytics-dashboard-55v9xepvxv94ejyhxlz6up.streamlit.app/)**
 
-Explore real-time race strategy, pit stop optimization, and performance analytics through our interactive Streamlit dashboard.
+Explore real-time race strategy, pit stop optimization, and performance analytics through an interactive Streamlit dashboard.
 
 ---
 
