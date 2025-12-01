@@ -9,7 +9,8 @@ warnings.filterwarnings('ignore')
 class RaceAnalytics:
     def __init__(self):
         self.lap_data = pd.read_csv('lap_times.csv')
-        self.telemetry = pd.read_csv('telemetry_data_sampled.csv')
+        with zipfile.ZipFile('telemetry_data_sampled.zip', 'r') as zip_file:
+            self.telemetry = pd.read_csv(zip_file.open('telemetry_data_sampled.csv'))
         self.weather = pd.read_csv('weather_data.csv')
         
         # Convert lap times from milliseconds to seconds
